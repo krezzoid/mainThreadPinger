@@ -1,4 +1,5 @@
 # mainThreadPinger
+[![codebeat badge](https://codebeat.co/badges/2b978a49-8336-4271-847a-adc12a928d9a)](https://codebeat.co/projects/github-com-krezzoid-mainthreadpinger)
 
 ### Usage
 ```swift
